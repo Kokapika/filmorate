@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dfb7e30-f1c0-42e4-bf89-d713cdc6d244" name="Changes" comment="" />
+    <list default="true" id="ccc031e7-0fc1-48f6-b8bc-16c2e62d09ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,35 +17,21 @@
       </list>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="2Zjd2by3qYREYPN89VyntpUlWFA" />
+  <component name="ProjectId" id="2ZrERXpbG6sSkD4CsSjsGk9xRLn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Natalya Marchenko/Desktop/Новая папка/java-filmorate-add-database",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="ru.yandex.practicum.filmorate.controller" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager" selected="Application.FilmorateApplication">
     <configuration name="FilmorateApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.FilmorateApplication" />
@@ -56,22 +42,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilmControllerValidationTest.addFilm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="filmorate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest" />
-      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.FilmControllerValidationTest" />
-      <option name="METHOD_NAME" value="addFilm" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,45 +61,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserControllerValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FilmorateAppTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="filmorate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.*" />
+          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest" />
-      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.UserControllerValidationTest" />
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.FilmorateAppTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserControllerValidationTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FilmorateAppTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="filmorate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.*" />
+          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest" />
-      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.inMemoryTest.UserControllerValidationTest" />
-      <option name="METHOD_NAME" value="addUser" />
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.FilmorateAppTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserDbTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filmorate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.practicum.filmorate.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.practicum.filmorate.controller" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.filmorate.controller.UserDbTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="java-filmorate-main" />
+      <module name="java-filmorate-add-database" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java-filmorate-main" />
+      <module name="java-filmorate-add-database" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,21 +123,21 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FilmorateApplication" />
-        <item itemvalue="JUnit.FilmControllerValidationTest.addFilm" />
-        <item itemvalue="JUnit.UserControllerValidationTest.addUser" />
-        <item itemvalue="JUnit.UserControllerValidationTest" />
         <item itemvalue="JUnit.FilmDbTest" />
+        <item itemvalue="JUnit.FilmorateAppTests.contextLoads" />
+        <item itemvalue="JUnit.FilmorateAppTests" />
+        <item itemvalue="JUnit.UserDbTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7dfb7e30-f1c0-42e4-bf89-d713cdc6d244" name="Changes" comment="" />
-      <created>1702939216093</created>
+      <changelist id="ccc031e7-0fc1-48f6-b8bc-16c2e62d09ef" name="Changes" comment="" />
+      <created>1703171790397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1702939216093</updated>
+      <updated>1703171790397</updated>
     </task>
     <servers />
   </component>
